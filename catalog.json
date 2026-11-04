@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T12:02:34.618Z",
+  "generatedAt": "2026-11-04T12:56:57.016Z",
   "mods": [
     {
-      "id": "land-cruiser-300",
+      "id": "tahoe-2007",
       "section": "cars",
-      "name": "Land Cruiser 300",
-      "description": "Toyota Off-Road SUV",
-      "category": "Offroad",
+      "name": "Tahoe 2007",
+      "description": "chevy tahoe",
+      "category": "Tahoe",
       "version": "1.0",
-      "carFolder": "lc300ken",
-      "sizeBytes": 152368145,
-      "sha256": "43dd5a6027a566120e9be3fcbfba5f2155cdd194c744d872568a80a8ea786dc2",
-      "downloadUrl": "https://github.com/aboodyw/nitro-mods/releases/download/library/land-cruiser-300.zip",
-      "previewUrl": "https://github.com/aboodyw/nitro-mods/releases/download/library/land-cruiser-300-preview.jpg"
+      "carFolder": "ARtahoe13",
+      "sizeBytes": 154666808,
+      "sha256": "22c978921c6379385e0a5aa33981f9c8962410c2c10f79170ffb6f495346b597",
+      "downloadUrl": "https://github.com/aboodyw/nitro-mods/releases/download/library/tahoe-2007.zip",
+      "previewUrl": "https://github.com/aboodyw/nitro-mods/releases/download/library/tahoe-2007-preview.jpg"
     }
   ]
 }
