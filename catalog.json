@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T11:55:34.141Z",
+  "generatedAt": "2026-11-04T12:02:34.618Z",
   "mods": [
     {
       "id": "land-cruiser-300",
@@ -11,7 +11,7 @@
       "version": "1.0",
       "carFolder": "lc300ken",
       "sizeBytes": 152368145,
-      "sha256": "b648f185728cc114ed1bc96a0e6c5ac2fdeeceb723b8d3d645ec59babe0cde4a",
+      "sha256": "43dd5a6027a566120e9be3fcbfba5f2155cdd194c744d872568a80a8ea786dc2",
       "downloadUrl": "https://github.com/aboodyw/nitro-mods/releases/download/library/land-cruiser-300.zip",
       "previewUrl": "https://github.com/aboodyw/nitro-mods/releases/download/library/land-cruiser-300-preview.jpg"
     }
