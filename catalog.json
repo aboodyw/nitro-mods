@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-04T11:55:34.141Z",
+  "mods": [
+    {
+      "id": "land-cruiser-300",
+      "section": "cars",
+      "name": "Land Cruiser 300",
+      "description": "Toyota Off-Road SUV",
+      "category": "Offroad",
+      "version": "1.0",
+      "carFolder": "lc300ken",
+      "sizeBytes": 152368145,
+      "sha256": "b648f185728cc114ed1bc96a0e6c5ac2fdeeceb723b8d3d645ec59babe0cde4a",
+      "downloadUrl": "https://github.com/aboodyw/nitro-mods/releases/download/library/land-cruiser-300.zip",
+      "previewUrl": "https://github.com/aboodyw/nitro-mods/releases/download/library/land-cruiser-300-preview.jpg"
+    }
+  ]
+}
