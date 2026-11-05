@@ -1,19 +1,58 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T12:56:57.016Z",
+  "generatedAt": "2026-11-05T12:30:20.982Z",
   "mods": [
     {
-      "id": "tahoe-2007",
-      "section": "cars",
-      "name": "Tahoe 2007",
-      "description": "chevy tahoe",
-      "category": "Tahoe",
+      "id": "hotw",
+      "section": "mods",
+      "name": "Hotw",
+      "description": "hands on wheel",
+      "category": "Other",
       "version": "1.0",
-      "carFolder": "ARtahoe13",
-      "sizeBytes": 154666808,
-      "sha256": "22c978921c6379385e0a5aa33981f9c8962410c2c10f79170ffb6f495346b597",
-      "downloadUrl": "https://github.com/aboodyw/nitro-mods/releases/download/library/tahoe-2007.zip",
-      "previewUrl": "https://github.com/aboodyw/nitro-mods/releases/download/library/tahoe-2007-preview.jpg"
+      "filename": "hotw0.4.0 (1).zip",
+      "sizeBytes": 165068545,
+      "sha256": "b4938e8ccce3e59bbeccd13a67d8f8dabc51cc24e5a883ea4f64734e069149bf",
+      "downloadUrl": "https://github.com/aboodyw/nitro-mods/releases/download/library/hotw.zip",
+      "previewUrl": null
+    },
+    {
+      "id": "grand-cherokee",
+      "section": "cars",
+      "name": "Grand Cherokee",
+      "description": "",
+      "category": "Other",
+      "version": "1.0",
+      "carFolder": "wlken",
+      "sizeBytes": 39433843,
+      "sha256": "d770cf11904389bd39aabf3b3129364dc2b0236c5378ddf964ba9ed621ab8675",
+      "downloadUrl": "https://github.com/aboodyw/nitro-mods/releases/download/library/grand-cherokee.zip",
+      "previewUrl": "https://github.com/aboodyw/nitro-mods/releases/download/library/grand-cherokee-preview.jpg"
+    },
+    {
+      "id": "highlander-toyota",
+      "section": "cars",
+      "name": "HighLander Toyota",
+      "description": "",
+      "category": "Other",
+      "version": "1.0",
+      "carFolder": "highlander25_spadie",
+      "sizeBytes": 33125349,
+      "sha256": "af94ebd6bea570e9f7cce47f512e5710a3712c909b9da230e15f56221057dd23",
+      "downloadUrl": "https://github.com/aboodyw/nitro-mods/releases/download/library/highlander-toyota.zip",
+      "previewUrl": null
+    },
+    {
+      "id": "land-cruiser-toyota-300",
+      "section": "cars",
+      "name": "Land Cruiser Toyota 300",
+      "description": "",
+      "category": "SUV",
+      "version": "1.0",
+      "carFolder": "lc300ken",
+      "sizeBytes": 152368145,
+      "sha256": "26321f874fccf608e92d34bd7c163e6b68a5eff26fd452b8658a8a8ad8de98fe",
+      "downloadUrl": "https://github.com/aboodyw/nitro-mods/releases/download/library/land-cruiser-toyota-300.zip",
+      "previewUrl": "https://github.com/aboodyw/nitro-mods/releases/download/library/land-cruiser-toyota-300-preview.png"
     }
   ]
 }
