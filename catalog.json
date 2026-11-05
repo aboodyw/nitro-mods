@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T12:30:20.982Z",
+  "generatedAt": "2026-11-05T13:16:05.494Z",
   "mods": [
     {
       "id": "hotw",
@@ -24,7 +24,7 @@
       "version": "1.0",
       "carFolder": "wlken",
       "sizeBytes": 39433843,
-      "sha256": "d770cf11904389bd39aabf3b3129364dc2b0236c5378ddf964ba9ed621ab8675",
+      "sha256": "9eaa701e2d33816ce656332f6cd080cbca9b82e8403d5c7c1c0839269f3f95f6",
       "downloadUrl": "https://github.com/aboodyw/nitro-mods/releases/download/library/grand-cherokee.zip",
       "previewUrl": "https://github.com/aboodyw/nitro-mods/releases/download/library/grand-cherokee-preview.jpg"
     },
@@ -37,7 +37,7 @@
       "version": "1.0",
       "carFolder": "highlander25_spadie",
       "sizeBytes": 33125349,
-      "sha256": "af94ebd6bea570e9f7cce47f512e5710a3712c909b9da230e15f56221057dd23",
+      "sha256": "62f6ada8ecd05241519f9c7e50961f3f14a08347627e3ac3b7328b59fe48d167",
       "downloadUrl": "https://github.com/aboodyw/nitro-mods/releases/download/library/highlander-toyota.zip",
       "previewUrl": null
     },
@@ -50,7 +50,7 @@
       "version": "1.0",
       "carFolder": "lc300ken",
       "sizeBytes": 152368145,
-      "sha256": "26321f874fccf608e92d34bd7c163e6b68a5eff26fd452b8658a8a8ad8de98fe",
+      "sha256": "3f83125272d5d8a080feab51dc23eb07cd0403f87051feca60c80d7800dcaebf",
       "downloadUrl": "https://github.com/aboodyw/nitro-mods/releases/download/library/land-cruiser-toyota-300.zip",
       "previewUrl": "https://github.com/aboodyw/nitro-mods/releases/download/library/land-cruiser-toyota-300-preview.png"
     }
